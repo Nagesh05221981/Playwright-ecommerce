@@ -1,0 +1,24 @@
+{
+  "defaultUser": {
+    "name": "Alex Tester",
+    "email": "alex.tester@nova.test",
+    "password": "Test1234"
+  },
+  "payment": {
+    "cardNumber": "4111 1111 1111 1234",
+    "cardholderName": "Alex Tester",
+    "expiry": "12/28",
+    "cvv": "999"
+  },
+  "product": {
+    "name": "Scented Soy Candle",
+    "price": 32.99
+  },
+  "products": [
+    { "name": "Scented Soy Candle", "price": 32.99 },
+    { "name": "Wireless Noise-Cancelling Headphones", "price": 149.99 }
+  ],
+  "pickup": {
+    "storeName": "Nova Downtown"
+  }
+}
